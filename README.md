@@ -1,4 +1,4 @@
-# MindPlay
+# MindPlay Games
 
 MindPlay is a browser-based collection of mini-games built with React, TypeScript, and Vite.
 
